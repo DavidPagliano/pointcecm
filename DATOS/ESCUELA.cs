@@ -36,9 +36,8 @@
         // sobre cómo configurar y usar un modelo Code First, vea http://go.microsoft.com/fwlink/?LinkId=390109.
 
         // public virtual DbSet<MyEntity> MyEntities { get; set; }
-		public virtual DbSet<MODELO.ALUMNO> alumnos { get; set; }
-		public virtual DbSet<MODELO.MAESTRO> maestros { get; set; }
-		public virtual DbSet<MODELO.LOGIN> logins { get; set; }
+		public virtual DbSet<MODELO.PERSONA> Persona { get; set; }
+		public virtual DbSet<MODELO.LOGIN> Logins { get; set; }
     }
 
     //public class MyEntity

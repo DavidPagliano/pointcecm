@@ -49,8 +49,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CONTROLADORA_ALUMNO.cs" />
-    <Compile Include="CONTROLADORA_MAESTRO.cs" />
+    <Compile Include="CONTROLADORA_PERSONA.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

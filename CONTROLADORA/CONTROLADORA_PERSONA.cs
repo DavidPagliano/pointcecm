@@ -25,27 +25,27 @@ namespace CONTROLADORA
 			escuela = new DATOS.ESCUELA();
 		}
 
-		public void AGREGAR_MAESTRO(MODELO.MAESTRO omaestro)
+		public void AGREGAR_PERSONA(MODELO.PERSONA opersona)
 		{
-			escuela.maestros.Add(omaestro);
+			escuela.Persona.Add(opersona);
 			escuela.SaveChanges();
 		}
 
-		public void MODIFICAR_MAESTRO(MODELO.MAESTRO omaestro)
+		public void MODIFICAR_PERSONA(MODELO.PERSONA oPersona)
 		{
-			escuela.Entry(omaestro).State = System.Data.Entity.EntityState.Modified;
+			escuela.Entry(oPersona).State = System.Data.Entity.EntityState.Modified;
 			escuela.SaveChanges();
 		}
 
-		public void ELIMINAR_MAESTRO(MODELO.MAESTRO omaestro)
+		public void ELIMINAR_MAESTRO(MODELO.PERSONA opersona)
 		{
-			escuela.maestros.Remove(omaestro);
+			escuela.Persona.Remove(opersona);
 			escuela.SaveChanges();
 		}
 
-		public List<MODELO.MAESTRO> OBTENER_MAESTRO()
+		public List<MODELO.PERSONA> OBTENER_PERSONA()
 		{
-		  return escuela.maestros.ToList();
+		  return escuela.Persona.ToList();
 		}
 	}
 }
