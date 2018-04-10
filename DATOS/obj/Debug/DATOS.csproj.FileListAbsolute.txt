@@ -1,0 +1,15 @@
+C:\Users\AleDC\Desktop\PointCECM\DATOS\bin\Debug\DATOS.dll.config
+C:\Users\AleDC\Desktop\PointCECM\DATOS\bin\Debug\DATOS.dll
+C:\Users\AleDC\Desktop\PointCECM\DATOS\bin\Debug\DATOS.pdb
+C:\Users\AleDC\Desktop\PointCECM\DATOS\bin\Debug\EntityFramework.dll
+C:\Users\AleDC\Desktop\PointCECM\DATOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AleDC\Desktop\PointCECM\DATOS\bin\Debug\MODELO.dll
+C:\Users\AleDC\Desktop\PointCECM\DATOS\bin\Debug\MODELO.pdb
+C:\Users\AleDC\Desktop\PointCECM\DATOS\bin\Debug\MODELO.dll.config
+C:\Users\AleDC\Desktop\PointCECM\DATOS\bin\Debug\EntityFramework.xml
+C:\Users\AleDC\Desktop\PointCECM\DATOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AleDC\Desktop\PointCECM\DATOS\obj\Debug\DATOS.csprojResolveAssemblyReference.cache
+C:\Users\AleDC\Desktop\PointCECM\DATOS\obj\Debug\DATOS.csproj.CoreCompileInputs.cache
+C:\Users\AleDC\Desktop\PointCECM\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\AleDC\Desktop\PointCECM\DATOS\obj\Debug\DATOS.dll
+C:\Users\AleDC\Desktop\PointCECM\DATOS\obj\Debug\DATOS.pdb

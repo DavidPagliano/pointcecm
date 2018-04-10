@@ -1,0 +1,12 @@
+C:\Users\AleDC\Desktop\PointCECM\MODELO\bin\Debug\MODELO.dll.config
+C:\Users\AleDC\Desktop\PointCECM\MODELO\bin\Debug\MODELO.dll
+C:\Users\AleDC\Desktop\PointCECM\MODELO\bin\Debug\MODELO.pdb
+C:\Users\AleDC\Desktop\PointCECM\MODELO\bin\Debug\EntityFramework.dll
+C:\Users\AleDC\Desktop\PointCECM\MODELO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AleDC\Desktop\PointCECM\MODELO\bin\Debug\EntityFramework.xml
+C:\Users\AleDC\Desktop\PointCECM\MODELO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AleDC\Desktop\PointCECM\MODELO\obj\Debug\MODELO.csprojResolveAssemblyReference.cache
+C:\Users\AleDC\Desktop\PointCECM\MODELO\obj\Debug\MODELO.csproj.CoreCompileInputs.cache
+C:\Users\AleDC\Desktop\PointCECM\MODELO\obj\Debug\MODELO.csproj.CopyComplete
+C:\Users\AleDC\Desktop\PointCECM\MODELO\obj\Debug\MODELO.dll
+C:\Users\AleDC\Desktop\PointCECM\MODELO\obj\Debug\MODELO.pdb
