@@ -10,6 +10,6 @@ namespace MODELO
 	{
 		public int ID_Grado { get; set; }
 		public NIVEL Nivel { get; set; }
-		public GRADO Grado { get; set; }
+		public string Grado { get; set; }
 	}
 }
